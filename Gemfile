@@ -14,6 +14,14 @@ gem 'puma', '~> 3.11'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# MongoD
+gem 'mongoid'
+
+# Simple authentication Token
+gem 'simple_token_authentication', '~> 1.0'
+
+# Devise
+gem 'devise'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
